@@ -32,7 +32,36 @@ header{
 .menù{
     display: none;
 }
+// main
+.contenitor-carousel{
+    width: 800px;
+    margin: 0 auto;
+    padding: 3rem;
+}
+.carousel-indicators button{
+  background-color:black !important;
+}
 
+#Comments{
+    background-color: orange;
+    color: white;
+    text-align: center;
+}
+
+.larghezzabox{
+    width: 300px !important;
+}
+
+// footer
+footer{
+    width: 100%;
+    background-color: black;
+    opacity: 0.5;
+    text-align: center;
+    color: white;
+    position: sticky;
+    bottom: 0;
+}
 
 
 // media query
